@@ -1,0 +1,8 @@
+django
+django-debug-toolbar
+mysqlclient
+djangorestframework
+drf-nested-routers
+pillow
+djoser
+djangorestframework-simplejwt
